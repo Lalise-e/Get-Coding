@@ -33,3 +33,11 @@ header{
     text-decoration: none;
     padding-inline: 1.25rem;
 }
+main{
+    text-align: center;
+    background-color: var(--color-primary);
+    color: white;
+    height: calc(43vh - 1px);
+    padding: 1px 0 0;
+    margin: 0;
+}
