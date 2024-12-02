@@ -3,6 +3,7 @@
     --font-default: "Roboto", sans serif;
     --color-neutral: #F8F8F8;
     --color-primary: #587291;
+    --color-secondary: #5B2E48;
 }
 :focus{
     outline: solid green 4px;
