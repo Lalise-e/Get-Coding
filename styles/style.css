@@ -47,7 +47,8 @@ main{
 main > p{
     font-weight: 400;
     font-size: 1.5rem;
-    margin-top: 15vh
+    margin-top: calc((43vh - 1px - 3rem - 1.75rem) / 2);
+    margin-bottom: 1.5rem;
 }
 button{
     background-color: var(--color-secondary);
