@@ -2,6 +2,9 @@
     --font-size-default: 24px;
     --color-neutral: #F8F8F8;
 }
+:focus{
+    outline: solid green 4px;
+}
 body{
     font-size: var(--font-size-default);
     width: 100%;
