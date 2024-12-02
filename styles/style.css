@@ -1,5 +1,6 @@
 :root{
     --font-size-default: 24px;
+    --font-default: "Roboto", sans serif;
     --color-neutral: #F8F8F8;
     --colour-primary: #587291;
 }
