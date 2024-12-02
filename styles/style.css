@@ -55,3 +55,7 @@ button{
     border: var(--color-secondary) solid;
     border-radius: 7px;
 }
+footer{
+    background-color: var(--color-neutral);
+    height: 8.6vh;
+}
