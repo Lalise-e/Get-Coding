@@ -1,5 +1,5 @@
 :root{
-    --default-font-size: 24px;
+    --font-size-default: 24px;
 }
 header{
     width: 100%;
