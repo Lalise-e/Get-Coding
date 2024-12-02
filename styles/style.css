@@ -2,9 +2,15 @@
     --font-size-default: 24px;
     --color-neutral: #F8F8F8;
 }
-header{
+body{
+    font-size: var(--font-size-default);
     width: 100%;
+    margin: 0;
+}
+header{
     background-image: url(../images/header-get-coding.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
+    padding: 2.5rem 1.25rem;
+}
 }
