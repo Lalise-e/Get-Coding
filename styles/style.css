@@ -67,5 +67,5 @@ footer{
     position: absolute;
     font-size: 1.25rem;
     right: 3rem;
-    margin-top: calc(4.3vh - 1rem);
+    margin-top: calc(4.3vh - 0.625rem);
 }
