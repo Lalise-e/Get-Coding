@@ -59,3 +59,9 @@ footer{
     background-color: var(--color-neutral);
     height: 8.6vh;
 }
+#footer-nav{
+    position: absolute;
+    font-size: 1.25rem;
+    right: 3rem;
+    margin-top: calc(4.3vh - 1rem);
+}
