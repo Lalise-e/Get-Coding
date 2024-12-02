@@ -55,6 +55,7 @@ button{
     padding: 0.5rem 0.9rem;
     border: var(--color-secondary) solid;
     border-radius: 7px;
+    box-shadow: 0 4px 4px #384553;
 }
 footer{
     background-color: var(--color-neutral);
