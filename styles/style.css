@@ -9,6 +9,7 @@
     outline: solid green 4px;
 }
 body{
+    font: var(--font-default);
     font-size: var(--font-size-default);
     width: 100%;
     margin: 0;
