@@ -46,3 +46,12 @@ main > p{
     font-size: 1.5rem;
     margin-top: 15vh
 }
+button{
+    background-color: var(--color-secondary);
+    color: white;
+    font: var(--font-default);
+    font-size: 1.25rem;
+    padding: 0.5rem 0.9rem;
+    border: var(--color-secondary) solid;
+    border-radius: 7px;
+}
