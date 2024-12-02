@@ -1,6 +1,6 @@
 header{
     width: 100%;
-}
-.header-image{
-    width: 100%;
+    background-image: url(../images/header-get-coding.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
