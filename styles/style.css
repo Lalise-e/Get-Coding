@@ -41,6 +41,7 @@ header{
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
+    background-color: #E9E9E9;
     padding: 2.5rem 1.25rem;
     height: calc(48.4vh - 5rem);
 }
