@@ -1,3 +1,6 @@
+:root{
+    --default-font-size: 24px;
+}
 header{
     width: 100%;
     background-image: url(../images/header-get-coding.png);
