@@ -2,7 +2,7 @@
     --font-size-default: 24px;
     --font-default: "Roboto", sans serif;
     --color-neutral: #F8F8F8;
-    --colour-primary: #587291;
+    --color-primary: #587291;
 }
 :focus{
     outline: solid green 4px;
