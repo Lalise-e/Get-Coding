@@ -1,6 +1,7 @@
 :root{
     --font-size-default: 24px;
     --color-neutral: #F8F8F8;
+    --colour-primary: #587291;
 }
 :focus{
     outline: solid green 4px;
