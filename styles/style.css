@@ -20,7 +20,7 @@ header{
     background-size: 100% auto;
     background-position: center;
     padding: 2.5rem 1.25rem;
-    height: calc(49vh - 5rem);
+    height: calc(48.4vh - 5rem);
 }
 #header-nav{
     text-align: center;
