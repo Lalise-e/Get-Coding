@@ -5,6 +5,7 @@
     --color-neutral-darkned: #DBDBDB;
     --color-primary: #587291;
     --color-secondary: #5B2E48;
+    --color-secondary-darkened: #3A1D2E;
 }
 @media (max-width: 700px) or (max-height: 500px){
     :root{
