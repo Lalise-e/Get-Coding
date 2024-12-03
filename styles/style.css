@@ -92,6 +92,14 @@ button{
     border-radius: 7px;
     box-shadow: 0 4px 4px #384553;
 }
+button:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 0.1em;
+}
+button:active{
+    background-color: var(--color-secondary-darkened);
+    border-color: var(--color-secondary-darkened);
+}
 footer{
     background-color: var(--color-neutral);
     height: 8.6vh;
