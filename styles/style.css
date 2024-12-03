@@ -64,7 +64,7 @@ a{
 }
 a:hover{
     text-decoration: underline;
-    text-decoration-thickness: 0.1rem;
+    text-decoration-thickness: 0.1em;
 }
 a:active{
     background-color: var(--color-neutral-darkned);
