@@ -55,7 +55,7 @@ header{
     box-shadow: 1px 1px 21px #DCDCDC
 }
 #header-nav > a{
-    padding: calc(1rem + 1px) 1.25rem;
+    padding: calc(1rem + 1px) 1.25rem 0;
     border-radius: 1rem;
 }
 a{
@@ -109,9 +109,9 @@ footer{
     position: absolute;
     font-size: 1.25rem;
     right: 3rem;
-    margin-top: calc(4.3vh - 0.625rem);
+    margin-top: calc(4.3vh - 0.5em);
 }
 #footer-nav > a{
-    padding: calc(4.3vh - 0.625rem) 1.25rem;
+    padding: calc(4.3vh - 0.5em) 1.25rem calc(4.3vh - 0.5em - 4px);
     border-radius: 1rem;
 }
